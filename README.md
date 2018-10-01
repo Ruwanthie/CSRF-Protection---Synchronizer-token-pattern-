@@ -12,7 +12,7 @@ You'll need PHP in your working machine to run this application
 Download and install either
 
 -   [xampp](https://www.apachefriends.org/index.html)
--   [wampp](http://www.wampserver.com/en/)
+-   [wamp](http://www.wampserver.com/en/)
 
 to run this application your local machine
 
