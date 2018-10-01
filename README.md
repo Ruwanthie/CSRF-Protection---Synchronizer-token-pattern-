@@ -29,3 +29,5 @@ If the environment is configured using either xampp or wamp servers, then clone 
 If the environment is configured manually with the VS code extension, then clone the repo and open it using VS code. Then start the PHP server by pressing
 
 `ctrl+shift+p` and searching for "Serve Project with PHP"
+
+### For more information, visit (http://aboutcsrf.blogspot.com/2018/09/csrf-protection-synchronizer-token.html).
